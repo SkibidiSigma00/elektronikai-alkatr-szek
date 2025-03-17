@@ -26,6 +26,12 @@
 
 
 - Integrált áramkör (IC-K): Rengeteg célfeladatra létezik.
+- NE555 IC jellemzői: Időzítő IC, sokféle elektronikai alkalmazásban használják. három alapműködési módja van:
+- Monostabil
+- Asztabil
+- Bistabil![sn54155j-integralt-aramkor-595637-19328](https://github.com/user-attachments/assets/d5eaedee-e808-4347-906d-5ef4e0db630d)
+
+
 3. milyen áramköröket lehet elkészíteni ezekből?
 - LED áramkör: LED és ellenállás használatával.
 - Feszültségosztó: Két ellenállással.
