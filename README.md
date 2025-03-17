@@ -13,11 +13,10 @@
   ![NFRXVTdINkoxRE0](https://github.com/user-attachments/assets/5a02457d-6f72-4e35-a86f-c18ef1aa7889)
 
 
-- FET-ek: Feszültséggel vezérelhető.
+- Tranzisztor: A tranzisztor egy félvezető eszköz, amelyet erősítésre vagy kapcsolásra használnak.
+- Típusai: NPN és PNP – bipoláris tranzisztorok.![Transbauformen](https://github.com/user-attachments/assets/c9efe8d5-e76d-455b-8bcb-586714c55db5)
 
 
-
-- Tranzisztor: Használhatjuk kapcsolásra, vagy erősítésre is. Két típusa van, NPN és PNP. Működésük azonos de ellentétes polaritású feszültségre dolgoznak.
 
 - LED: A LED fényt bocsát ki, ha áram folyik rajta keresztül.
 - Jellemzői: Előfeszítési feszültség (1.8 - 3.3 V)
