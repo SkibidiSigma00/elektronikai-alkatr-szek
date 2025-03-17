@@ -1,10 +1,11 @@
 1. Miről szol a tananyag/A tanfolyam tematikája?
    - Bevezetés az elektronikába, Forrasztás egyszerű áramkörök, NYÁK tervezése/készítése, Digitális áramkörök tervezése, építése, Analóg áramkör készítése, Ismerkedés a mikrokontrollerekkel AVR programozás.
 2. Milyen alakatrészeket tanultunk, ezek mire valók?
-- Ellenállás: Áramkorlátozásra, feszültségosztásra.![Yageo+CFR](https://github.com/user-attachments/assets/8495c6d0-fe27-4701-993c-3b5ad71b8213)
-
-- Jellemzői: Értéke: Ω - áramkorlátozás mértéke
+- Ellenállás: Áramkorlátozásra, feszültségosztásra.
+ - Jellemzői: Értéke: Ω - áramkorlátozás mértéke
 - Színkód: az érték és tűrés jelölésére szolgál.
+![Yageo+CFR](https://github.com/user-attachments/assets/0c7fb7a4-85a3-4859-b017-5c292b765251)
+
 
   - Kondenzátor: Energiát tárolnak, kiülésűk ideje kihasználható.
 - Kapacítás (Farad) - tárolható töltés mennyisége
