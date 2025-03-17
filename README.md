@@ -21,7 +21,8 @@
 - LED: A LED fényt bocsát ki, ha áram folyik rajta keresztül.
 - Jellemzői: Előfeszítési feszültség (1.8 - 3.3 V)
 - Áramkorlátozó ellenállás szükséges.
-- Szín és fényerő használata világítás, kijelző, jelzés
+- Szín és fényerő használata világítás, kijelző, jelzés![578_5mm](https://github.com/user-attachments/assets/ab2ba169-75fc-46c6-83cd-05d9fd7767ce)
+
 
 
 - Integrált áramkör (IC-K): Rengeteg célfeladatra létezik.
