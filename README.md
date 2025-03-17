@@ -13,9 +13,8 @@
   ![NFRXVTdINkoxRE0](https://github.com/user-attachments/assets/5a02457d-6f72-4e35-a86f-c18ef1aa7889)
 
 
-
 - FET-ek: Feszültséggel vezérelhető.
-![2N7000-300x300](https://github.com/user-attachments/assets/a86ef12b-df8b-4a9b-be6f-7a893a3df1e5)
+
 
 
 - Tranzisztor: Használhatjuk kapcsolásra, vagy erősítésre is. Két típusa van, NPN és PNP. Működésük azonos de ellentétes polaritású feszültségre dolgoznak.
